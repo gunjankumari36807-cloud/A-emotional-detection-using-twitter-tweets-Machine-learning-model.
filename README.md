@@ -18,11 +18,16 @@ Run the script using Python:
 Bash
 python emotion_detection.py
 
-3. SAMPLE OUTPUT
-   tweet emotion
+3. SAMPLE OUTPUT :
+ 
+4. tweet emotion :
+   
 0    I just got promoted! So happy! 🎉     joy
+
 1     Best day ever! Love my friends ❤️     joy
+
 2  Sun is shining, feeling amazing! ☀️     joy
+
 
 ✅ Model trained successfully!
 
